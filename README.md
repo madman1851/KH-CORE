@@ -1,6 +1,6 @@
-#KingsHills Core
+# KingsHills Core
 ```
-##Updates
+## Updates
 No updates yet
 ```
-##Special commands
+## Special commands
